@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pro.sky</groupId>
-	<artifactId>homework-maven-spring-boot</artifactId>
+	<artifactId>homework-calculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>homework-maven-spring-boot</name>
 	<description>Вводное в Maven и Spring Boot + web</description>
